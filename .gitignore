@@ -3,6 +3,7 @@
 # dependencies
 /blackjack-frontend/node_modules
 /blackjack-server/node_modules
+
 /.pnp
 .pnp.js
 
